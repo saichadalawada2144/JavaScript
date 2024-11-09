@@ -1,0 +1,37 @@
+.body{
+    background-color: hsl(0, 82%, 98%);
+}
+.hhh{
+    color:hsla(240, 98%, 63%, 0.902);
+    font-weight: bold;
+}
+form{
+    text-align: center;
+    background-color:whiteblack;
+    padding: auto;
+    background-color: rgb(246, 243, 243);
+    width:350px;
+    margin:auto;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgb(174, 174, 174);
+}
+label{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+button{
+    background-color: hsla(0, 100%, 56%, 0.915);
+    color:white;
+    font-size: 1.5em;
+    border-radius: 10px;
+}
+.ss{
+    font-size: 1.5em;
+    width:100px;
+    border:none;
+    border-radius: 5px;
+    text-align:center;
+}
+button:hover{
+    background-color: hsl(0, 96%, 45%);
+}

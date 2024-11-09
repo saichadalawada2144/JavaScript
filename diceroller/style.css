@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 2em;
+}
+b{
+    font-size: 1.7em;
+}
+input{
+    width:70px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+button{
+    background-color: rgb(68, 162, 239);
+    border:none;
+    border-radius: 5px;
+    font-size: 0.5em;
+    color:white;
+    font-weight: bold;
+    height: 30px;
+}
+button:hover{
+    background-color: rgb(99, 183, 251);;
+}
+.dire{
+margin: 25px;
+font-size: 20px;
+}
+.im{
+    margin:5px;
+}

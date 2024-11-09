@@ -1,0 +1,23 @@
+body{
+    background-image: url(sunset-5004905.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+#clock_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+}
+#clock{
+    font-size: 6.5vh;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    font-family: monospace;
+    background-color: rgba(238, 226, 226, 0.125);
+    backdrop-filter: blur(10px);
+    width: 100%;
+}
